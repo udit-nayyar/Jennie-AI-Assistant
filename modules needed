@@ -1,0 +1,12 @@
+#install following modules into your system by using pip install (module_name)
+pyaudio
+speechRecognition
+wolframaplha
+pyttsx3
+Wikipedia
+Tkinter
+ecapture
+twilio
+pyjokes
+beautifulsoup4
+requests
